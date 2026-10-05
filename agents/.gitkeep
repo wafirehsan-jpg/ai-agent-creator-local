@@ -1,0 +1,4 @@
+agents/
+!agents/.gitkeep
+memory/
+!memory/.gitkeep
